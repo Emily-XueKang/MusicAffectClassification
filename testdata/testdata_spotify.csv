@@ -1,0 +1,10 @@
+,song_name,class,genre,artist,title,album,sp_energy,sp_speechiness,sp_valence,sp_danceability,sp_acousticness,sp_instrumentalness,sp_tempo,sp_liveness,sp_loudness
+1,My Chemical Romance-The Ghost of You.mp3,angry,unknown,My Chemical Romance,The Ghost of You,Three Cheers for Sweet Revenge,0.886,0.0816,0.192,0.202,0.0286,0,145.781,0.643,-3.805
+2,live like we're dying.mp3,relax,Rock,Kris Allen,Live Like We're Dying,Kris Allen,0.9,0.0443,0.934,0.578,0.0267,0,92.011,0.287,-2.501
+3,Who You Are.mp3,sad,unknown,Jessie J,Who You Are,Domino Remix,0.667,0.0371,0.24,0.518,0.0205,4.93E-06,135.901,0.215,-3.855
+4,Broken Buildings.mp3,relax,Indie,Smile Smile,Broken Buildings,Marry A Stranger,0.54,0.0271,0.799,0.734,0.349,0.593,122.016,0.108,-9.465
+5,nothing ever happen.mp3,sad,Other,陈奕迅,Nothing Ever Happened,上五楼的快活,0.33,0.0321,0.358,0.606,0.329,0.0055,133.937,0.153,-12.059
+6,Owl City - Fireflies.mp3,happy,Other,Owl City,Fireflies,Ocean Eyes,0.649,0.0417,0.489,0.591,0.0294,0,90.002,0.133,-6.72
+7,Eminem - Hailie's Song.mp3,angry,Rap,Eminem,Hailies Song,The Eminem Show,0.745,0.165,0.47,0.781,0.0178,0.000105,80.972,0.0793,-3.487
+8,Maroon 5-Won't Go Home Without You.mp3,sad,unknown,Maroon 5,Won't Go Home Without You,2009 Grammy Nominees,0.62,0.0308,0.453,0.728,0.0152,0,110.023,0.227,-3.735
+9,miley cyrus - the time of our lives.mp3,happy,Pop,Miley Cyrus,The Time Of Our Lives,The Time Of Our Lives,0.708,0.0675,0.483,0.454,0.00124,0.000181,192.18,0.0679,-4.526
