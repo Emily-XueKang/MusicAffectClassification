@@ -1,0 +1,5 @@
+,song_name,genre,artist,title,album,sp_energy,sp_speechiness,sp_valence,sp_danceability,sp_acousticness,sp_instrumentalness,sp_tempo,sp_liveness,sp_loudness
+1,Dream a Little Dream of Me - Zee Avi.mp3,Lullabies,Zee Avi,Dream a Little Dream of Me,Zee Avi’s Nightlight,0.0879,0.0477,0.428,0.555,0.968,0.0,84.174,0.096,-12.141
+2,Jessie J - Flashlight.mp3,unknown,Jessie J,Flashlight,unknown,0.629,0.0441,0.416,0.458,0.366,7.52e-06,147.728,0.102,-6.949
+3,birdy - tee shirt.mp3,unknown,Birdy,Tee Shirt,The Fault In Our Stars (Music From the Motion Picture),0.341,0.0272,0.557,0.684,0.837,2.69e-05,75.948,0.0883,-9.497
+4,"Bang Bang - Jessie J,Ariana Grande,Nicki Minaj.mp3",Pop,Jessie J/Ariana Grande/Nicki Minaj,Bang Bang,MNM Big Hits 2014 Vol.3,0.789,0.0928,0.761,0.703,0.292,0.0,150.058,0.377,-3.423
