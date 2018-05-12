@@ -9,9 +9,10 @@ Then, use the features as predicting variables and the label as target variable,
 (0) Install Spotify package by `pip3 install spotify`, install LibROSA package by `pip3 install librosa`, install mutagen with `pip3 install mutagen`, install sklearn with `pip3 install -U scikit-learn` 
 
 (1) Feature Extraction and labeling songs(this step takes 30 minutes to 60 minutes, so the result data files have aleady been uploaded to this repository, the location and file name will be explained later in this bullet): run Feature-Extraction.ipynb to extract features using Spotify, LibROSA and output the feature files as csv file, then labeled the instances with affect types after listening to the songs listed in the dataset.   
-> The dataset for Spotify extracted features are in ./spotify_trainingdata/labeled_traingingdata_no_librosa_combine_pruned.csv 
+> The dataset for Spotify extracted features are in ./spotify_trainingdata/labeled_traingingdata_no_librosa_combine_pruned.csv  
 > The dataset for LibROSA extracted features are in ./librosa_trainingdata/trainingdata_librosa.csv  
-> The dataset for combined features are in ./trainingdata_both/trainingdata_both_pruned.csv  
+
+> The dataset for combined features are in ./trainingdata_both/trainingdata_both_pruned.csv    
 
 (2) To check the result of training and testing machine learing classifiers using Spotify extracted features dataset, see `Use-Spotify-Feature.ipynb`.   
 
